@@ -9,7 +9,7 @@ The goal of this project is to analyze how Federal Reserve (FED) interest rate d
 
 ## Data Characteristics
 * [cite_start]**Time Frame:** Last 5 years (2021-2026).
-* [cite_start]**Sample Size:** Approximately 1,250 daily price points.
+* **Sample Size:** Approximately 1,250 daily price points.
 
 ## Planned Analysis
 * [cite_start]**EDA:** Visualizing price trends around FED meeting dates.
